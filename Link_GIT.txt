@@ -1,0 +1,1 @@
+https://github.com/in28minutes/spring-web-services/blob/master/soap-web-services/src/main/resources/securityPolicy.xml

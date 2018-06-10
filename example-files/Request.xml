@@ -1,0 +1,9 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+	<Body>
+		<GetCourseDetailsRequest xmlns="http://demo6.demo.msol.at/coursesgenerated"
+		xsi:schemaLocation="http://demo6.demo.msol.at/coursesgenerated course-details.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<id>1A</id>
+		</GetCourseDetailsRequest>
+	</Body>
+</Envelope>
